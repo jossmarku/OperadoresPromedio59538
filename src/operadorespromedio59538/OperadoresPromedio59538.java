@@ -31,5 +31,4 @@ public class OperadoresPromedio59538 {
         System.out.println("valor5 = " + valor5);
         System.out.println("promedioValores = " + (valor1 + valor2 + valor3 + valor4 + valor5) / 5);
     }
-    
 }
